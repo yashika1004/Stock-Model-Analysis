@@ -3,7 +3,6 @@
 An interactive Streamlit-based web application that helps users analyze stock market performance, visualize stock charts, and simulate investments.
 It fetches real-time historical data from Yahoo Finance and provides insightful visualizations such as candlestick charts, daily profit/loss trends, and investment growth simulations.
 
-This project is perfect for beginners learning stock market data analysis as well as developers exploring Streamlit, Plotly, and yfinance integration.
 
 ✨ Key Features
 
@@ -47,6 +46,7 @@ Built with Streamlit, ensuring an interactive and easy-to-use UI.
 
 Responsive wide-layout design for better chart visibility.
 
+
 🛠️ Tech Stack
 
 Python – core programming language
@@ -58,6 +58,7 @@ yfinance – fetches real-world stock data
 pandas – data manipulation & calculations
 
 plotly – advanced charting & visualization
+
 
 📂 Project Structure
 📦 Stock Model Analysis
@@ -150,4 +151,5 @@ Open a pull request
 📜 License
 
 This project is licensed under the MIT License – feel free to use, modify, and share.
+
 
