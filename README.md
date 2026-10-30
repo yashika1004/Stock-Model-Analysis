@@ -71,7 +71,7 @@ plotly – advanced charting & visualization
 
 Clone the repository
 
-git clone https://github.com/yourusername/stock-analysis-dashboard.git
+git clone https://github.com/yashika1004/Stock-Model-Analysis.git
 cd Stock Model Analysis
 
 
